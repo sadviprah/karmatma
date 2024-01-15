@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadviprah
+- 👋 Hi, I’m @karmatma
 - 👀 I’m interested in Web Development and mobile app development.
 - 🌱 I’m currently learning about new web frameworks, new languages (like Rust, Go), and mobile app developent
 - 💞️ I’m looking to collaborate on any small backend projects (I am proficient in backend web developement)
