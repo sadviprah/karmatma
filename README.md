@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadviprah
 - 👀 I’m interested in Web Development and mobile app development.
-- 🌱 I’m currently learning new web frameworks and new languages like Rust.
+- 🌱 I’m currently learning about new web frameworks, new languages (like Rust, Go), and mobile app developent
 - 💞️ I’m looking to collaborate on any small backend projects (I am proficient in backend web developement)
 - 📫 How to reach me sadviprah@proton.me (expect 24 hours delay)
 - ⚡ Fun fact: ...
